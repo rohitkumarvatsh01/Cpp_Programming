@@ -1,4 +1,4 @@
-# Java_Programming
+# C++_Programming
 
 The repository is organized into folders dedicated to specific topics and Data Structures, focusing on Java-based solutions. Here's the breakdown of the folder structure:
 
