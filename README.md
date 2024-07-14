@@ -4,7 +4,7 @@ This repository showcases problem-solving skills using C++ programming, providin
 
 Each topic folder contains C++ files showcasing problem statements, solutions, and explanations using C++ language syntax.
 
-Topics Covered.....
+Topics Covered.
 <li>Mathematics</li>
 <li>Patterns</li>
 <li>Arrays</li>
